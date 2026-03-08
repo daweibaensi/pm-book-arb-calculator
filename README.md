@@ -30,7 +30,7 @@
 pip install streamlit pywebview requests
 
 2. 运行程序
-Bashpython desktop_app.py
+python desktop_app.py
 
 
 
